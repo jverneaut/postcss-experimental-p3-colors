@@ -1,5 +1,5 @@
 {
-  "name": "experimental-p3-colors",
+  "name": "postcss-experimental-p3-colors",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jverneaut/experimental-p3-colors.git"
+    "url": "git+https://github.com/jverneaut/postcss-experimental-p3-colors.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jverneaut/experimental-p3-colors/issues"
+    "url": "https://github.com/jverneaut/postcss-experimental-p3-colors/issues"
   },
-  "homepage": "https://github.com/jverneaut/experimental-p3-colors#readme",
+  "homepage": "https://github.com/jverneaut/postcss-experimental-p3-colors#readme",
   "dependencies": {
     "postcss": "^8.3.11",
     "sharp": "^0.29.2"
